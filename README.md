@@ -1,6 +1,8 @@
 # Gobble & Go — The Great Turkey Escape
 
 [![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/nofrizal05/makefun-turkey-escape/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/nofrizal05/makefun-turkey-escape/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 A complete, original turkey escape game that plays offline in a desktop browser. It is Thanksgiving morning and the farmer is coming for you — run 1200 metres through the farmyard, dodge the oven and the carving knife, jump the fences, grab the corn, and reach the forest before he catches you.
 
